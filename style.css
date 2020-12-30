@@ -1,6 +1,6 @@
 body{
-    background-image: linear-gradient( #D8BFD8, #87CEFA, #FF6347 )
+ background-image:   linear-gradient(#7a56ce, #3f5efb, #fc466b)
 }
-.heading2{
-    text-align: center;
+h1{
+    font-weight: bolder;
 }
