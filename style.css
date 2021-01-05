@@ -1,6 +1,53 @@
-body{
- background-image:   linear-gradient(#7a56ce, #3f5efb, #fc466b)
+body {
+    text-align: center;
+    background-image: linear-gradient(#7a56ce, #3f5efb, #fc466b)
 }
-h1{
+
+h1 {
     font-weight: bolder;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+#cutipie6 {
+ width: 287;
+}
+#cutipie7 {
+ width: 287;
+}
+#cutipie8 {
+ width: 287;
 }
